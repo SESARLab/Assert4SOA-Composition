@@ -1,0 +1,1 @@
+{"securityProperty":null,"model":{"modelName":"WSDL","modelWeight":"CONFIDENT","modelLevel":"HIGH"},"testEvidence":{"testCategory":"functionality","testType":"input_partitioning.random_input","testEvidenceQualityLevel":"LOW","weight":"ATTACK","cardinality":100},"orderComparison":"PF","comparisonType":"ADVANCED","securityPropertyComplete":"confidentiality_intransit"}
